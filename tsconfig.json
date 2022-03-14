@@ -11,7 +11,8 @@
     "rootDir": "./spec",
     "types": [
       "node",
-      "webdriverio/async"
+      "webdriverio/async",
+      "@wdio/mocha-framework"
     ]
   },
 
